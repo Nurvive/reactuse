@@ -122,6 +122,9 @@ features:
 - title: useSet
   details: Hook that manages a set structure
   link: /functions/hooks/useSet
+- title: useShare
+  details: Hook that provides Share API
+  link: /functions/hooks/useShare
 - title: useStep
   details: Hook that create stepper
   link: /functions/hooks/useStep
